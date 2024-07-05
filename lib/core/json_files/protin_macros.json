@@ -1,0 +1,79 @@
+{
+    "Protein Sources": [
+      {
+        "foodName": "Chicken Breast",
+        "protein": "35g",
+        "calories": 165
+      },
+      {
+        "foodName": "Lean Beef",
+        "protein": "30g",
+        "calories": 180
+      },
+      {
+        "foodName": "Fish",
+        "protein": "25g",
+        "calories": 120
+      },
+      {
+        "foodName": "Turkey Breast",
+        "protein": "30g",
+        "calories": 140
+      },
+      {
+        "foodName": "Eggs",
+        "protein": "6g",
+        "calories": 70
+      },
+      {
+        "foodName": "Greek Yogurt",
+        "protein": "20g",
+        "calories": 100
+      },
+      {
+        "foodName": "Cottage Cheese",
+        "protein": "28g",
+        "calories": 110
+      },
+      {
+        "foodName": "Whey Protein Powder",
+        "protein": "25g",
+        "calories": 120
+      },
+      {
+        "foodName": "Casein Protein Powder",
+        "protein": "20g",
+        "calories": 100
+      },
+      {
+        "foodName": "Soy Protein Powder",
+        "protein": "20g",
+        "calories": 100
+      },
+      {
+        "foodName": "Peanut Butter",
+        "protein": "8g",
+        "calories": 190
+      },
+      {
+        "foodName": "Almonds",
+        "protein": "6g",
+        "calories": 170
+      },
+      {
+        "foodName": "Chickpeas",
+        "protein": "15g",
+        "calories": 120
+      },
+      {
+        "foodName": "Lentils",
+        "protein": "18g",
+        "calories": 230
+      },
+      {
+        "foodName": "Quinoa",
+        "protein": "8g",
+        "calories": 150
+      }
+    ]
+  }

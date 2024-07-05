@@ -1,0 +1,1368 @@
+{
+  "workouts_plan": [
+    {
+      "title": "Push-Pull-leg",
+      "days_of_workout": "3",
+      "Workouts": [
+        {
+          "day": "Saturday",
+          "muscle_group": [
+            "Chest Triceps Shoulders"
+          ],
+          "exercises": [
+            {
+              "exercise": "Push-Up",
+              "sets": 2,
+              "weight": "80-100 lbs",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2021/04/liegestuetze_anfaenger-klassische_liegestuetzen.gif"
+            },
+            {
+              "exercise": "Bench Press",
+              "sets": 3,
+              "weight": "80-100 lbs",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/05/bankdruecken_langhantel.gif"
+            },
+            {
+              "exercise": "Dumbbell incline bench press",
+              "sets": 3,
+              "weight": "80-100 lbs",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2021/03/schraegbank_uebungen-kurzhantel_schraegbankdruecken.gif"
+            },
+            {
+              "exercise": " cable crossover",
+              "sets": 3,
+              "weight": "20-30 lbs",
+              "gif": "https://menspower.nl/wp-content/uploads/2018/03/cable-crossover.gif"
+            },
+            {
+              "exercise": "Lateral raise cable",
+              "sets": 3,
+              "weight": "20-30 lbs",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/07/frontheben_kurzhantel-stehend_einarmig.gif"
+            },
+            {
+              "exercise": "cable triceps pushdown",
+              "sets": 3,
+              "weight": "20-30 lbs",
+              "gif": "https://menspower.nl/wp-content/uploads/2018/03/cable-triceps-pushdown.gif"
+            },
+            {
+              "exercise": "dumbbell triceps kickback",
+              "sets": 3,
+              "weight": "20-30 lbs",
+              "gif": "https://menspower.nl/wp-content/uploads/2018/02/dumbbell-kickback.gif"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "muscle_group": [
+            "Back Biceps Shoulders"
+          ],
+          "exercises": [
+            {
+              "exercise": "Pull-ups",
+              "sets": 2,
+              "weight": "bodyweight",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/uebungen_latissimus-breite_klimmzuege_obergriff.gif"
+            },
+            {
+              "exercise": "One-arm dumbbell row",
+              "sets": 3,
+              "weight": "bodyweight",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/uebungen_latissimus-einarmiges_kurzhantelrudern.gif"
+            },
+            {
+              "exercise": "barbell rowing underhand grip",
+              "sets": 3,
+              "weight": "bodyweight",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/07/lat_muskel-rudern_langhantel_untergriff.gif"
+            },
+            {
+              "exercise": "Buttefly Reverse Machine ",
+              "sets": 3,
+              "weight": "bodyweight",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/02/schulter_muskelaufbau-butterfly_reverse_maschine.gif"
+            },
+            {
+              "exercise": "Hammer curl dumbbell ",
+              "sets": 3,
+              "weight": "bodyweight",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/09/hammercurl_kurzhantel-stehend-einarmig.gif"
+            },
+            {
+              "exercise": "Scott curls seated dumbbell ",
+              "sets": 3,
+              "weight": "bodyweight",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/08/scottcurls_kurzhantel_sitzend.gif"
+            },
+            {
+              "exercise": "Biceps Curls Device",
+              "sets": 3,
+              "weight": "bodyweight",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/03/muskelaufbau_bizeps-bizeps_curls_geraet.gif"
+            },
+            {
+              "exercise": "Deadlifts",
+              "sets": 3,
+              "weight": "30-40 lbs",
+              "gif": "https://i.pinimg.com/originals/e8/0d/14/e80d14528c2588241f7439958a805809.gif"
+            }
+          ]
+        },
+        {
+          "day": "Tharsday",
+          "muscle_group": [
+            "Legs"
+          ],
+          "exercises": [
+            {
+              "exercise": "Close squats",
+              "sets": 2,
+              "weight": "100-120 lbs",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/beintraining_muskelaufbau-enge_kniebeugen.gif"
+            },
+            {
+              "exercise": "Squats",
+              "sets": 3,
+              "weight": "100-120 lbs",
+              "gif": "https://codaio.imgix.net/docs/toQ738vXc0/blobs/bl-XSExo-oZTa/c05e276e16fd9514738dde20372561a358e7deba5594d27e4d840e2c8fb32396c58a2a2efc7ebe331c0e581dcffcab1b03007de93a092fc615fb6bb27ffcfe358291165b78e937f72c24da6c41fbdf3c0fa335207a4f3705ef2b85f07e677bc36ce36c1d?auto=format%2Ccompress&fit=max"
+            },
+            {
+              "exercise": " leg extension machine",
+              "sets": 3,
+              "weight": "100-120 lbs",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/beine_muskelaufbau-beinstrecken_maschine.gif"
+            },
+            {
+              "exercise": "45 degree leg press  machine",
+              "sets": 3,
+              "weight": "100-120 lbs",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/beine_muskelaufbau-beinpresse.gif"
+            },
+            {
+              "exercise": "Lunge",
+              "sets": 3,
+              "weight": "100-120 lbs",
+              "gif": "https://codaio.imgix.net/docs/toQ738vXc0/blobs/bl-e6fTCWlI_j/7993d2eca921d4fa60461c3636276f1e5ffc63d5708dfa6b944605a5a4e97fa7a6f264b046a5374f025a5ba772b7d616164404e1dfacf33ab06f05182a1b720fab2fd9b26d7df4e4417ebdd21721e83c65a1cd67db85782bbb3951acb16c1916e6c7a5fd?auto=format%2Ccompress&fit=max"
+            },
+            {
+              "exercise": "Leg curl machine",
+              "sets": 5,
+              "weight": "80-100 lbs",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/10/beintraining_trainingsplan-beinbeuger_maschine.gif"
+            },
+            {
+              "exercise": "Lever Seated Calf Raise",
+              "sets": 5,
+              "weight": "80-100 lbs",
+              "gif": "https://newlife.com.cy/wp-content/uploads/2019/11/26661301-Lever-Seated-Calf-Raise-plate-loaded-VERSION-2_Calves_360.gif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Arnold Split",
+      "days_of_workout": "3",
+      "Workouts": [
+        {
+          "day": "Saturday",
+          "muscle_group": [
+            "Chest",
+            "Triceps"
+          ],
+          "exercises": [
+            {
+              "exercise": "Bench Press",
+              "sets": 4,
+              "reps": " 8-12",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/05/bankdruecken_langhantel.gif"
+            },
+            {
+              "exercise": "Incline Dumbbell Press",
+              "sets": 3,
+              "reps": " 8-12",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2021/03/schraegbank_uebungen-kurzhantel_schraegbankdruecken.gif"
+            },
+            {
+              "exercise": "Triceps Pushdowns",
+              "sets": 3,
+              "reps": " 8-12",
+              "gif": "https://menspower.nl/wp-content/uploads/2018/03/cable-triceps-pushdown.gif"
+            },
+            {
+              "exercise": "Close-Grip Bench Press",
+              "sets": 3,
+              "reps": " 8-12",
+              "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/12/dumbbell-close-grip-press.gif"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "muscle_group": [
+            "Back",
+            "Biceps"
+          ],
+          "exercises": [
+            {
+              "exercise": "Pull-Ups",
+              "sets": 0,
+              "reps": "as many sets as possible",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/uebungen_latissimus-breite_klimmzuege_obergriff.gif"
+            },
+            {
+              "exercise": "Barbell Rows",
+              "sets": 4,
+              "reps": " 8-12",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/uebungen_latissimus-breite_klimmzuege_obergriff.gif"
+            },
+            {
+              "exercise": "Seated Cable Rows",
+              "sets": 3,
+              "reps": "10-15",
+              "gif": "https://images.squarespace-cdn.com/content/v1/5ffcea9416aee143500ea103/1638351904146-GDGXXL9IHXKQKTXULLHF/Seated%2BCable%2BRow.jpeg"
+            },
+            {
+              "exercise": "Bicep Curls",
+              "sets": 3,
+              "reps": "12-15",
+              "gif": "https://i.pinimg.com/originals/4b/e4/68/4be46841032506b311d43b8d49c6a58a.gif"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "muscle_group": [
+            "Shoulders",
+            "Triceps"
+          ],
+          "exercises": [
+            {
+              "exercise": "Military Press",
+              "sets": 4,
+              "reps": "8-12",
+              "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/10/seated-overhead-press.gif"
+            },
+            {
+              "exercise": "Lateral Raises",
+              "sets": 3,
+              "reps": "10-15",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/07/frontheben_kurzhantel-stehend_einarmig.gif"
+            },
+            {
+              "exercise": "Triceps Overhead Extensions",
+              "sets": 3,
+              "reps": "12-15",
+              "gif": "https://newlife.com.cy/wp-content/uploads/2019/12/21881301-Dumbbell-Seated-Triceps-Extension_Upper-Arms_360.gif"
+            },
+            {
+              "exercise": "Dips",
+              "sets": 0,
+              "reps": "as many sets as possible",
+              "gif": "https://kinxlearning.com/cdn/shop/files/dips_2_1000x.jpg?v=1690669329"
+            }
+          ]
+        },
+        {
+          "day": "Wensday",
+          "muscle_group": [
+            "Legs"
+          ],
+          "exercises": [
+            {
+              "exercise": "Squats",
+              "sets": 4,
+              "reps": "8-12",
+              "gif": "https://codaio.imgix.net/docs/toQ738vXc0/blobs/bl-XSExo-oZTa/c05e276e16fd9514738dde20372561a358e7deba5594d27e4d840e2c8fb32396c58a2a2efc7ebe331c0e581dcffcab1b03007de93a092fc615fb6bb27ffcfe358291165b78e937f72c24da6c41fbdf3c0fa335207a4f3705ef2b85f07e677bc36ce36c1d?auto=format%2Ccompress&fit=max"
+            },
+            {
+              "exercise": "Leg Press",
+              "sets": 3,
+              "reps": "10-15",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/beine_muskelaufbau-beinpresse.gif"
+            },
+            {
+              "exercise": "Leg Curls",
+              "sets": 3,
+              "reps": "12-15",
+              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/10/beintraining_trainingsplan-beinbeuger_maschine.gif"
+            },
+            {
+              "exercise": "Calf Raises",
+              "sets": 3,
+              "reps": "15-20",
+              "gif": "https://newlife.com.cy/wp-content/uploads/2019/11/26661301-Lever-Seated-Calf-Raise-plate-loaded-VERSION-2_Calves_360.gif"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "diet_plans": [
+    {
+      "title": "1300 Cal",
+      "breakfast": {
+        "image": "https://toddlerfoodclub.com/wp-content/uploads/2022/02/BeFunky-photo-1.png",
+        "description": {
+          "ar": "500مل من الحليب مع موز وبيضة أو أومليت",
+          "en": "500ml of milk with a banana and an egg or omelette"
+        },
+        "calories": 250,
+        "protein": 20,
+        "carbohydrates": 40,
+        "fat": 10
+      },
+      "mid_morning_snack": {
+        "image": "",
+        "description": {
+          "ar": "",
+          "en": ""
+        },
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0
+      },
+      "lunch": {
+        "image": "https://admin.acceleratingscience.com/food/wp-content/uploads/sites/5/2020/10/istock-694177316_varietycookedmeats-1.jpg",
+        "description": {
+          "ar": "70غ من المعكرونة مع 150غ من لحم  (يمكنك إضافة قليل من الصلصة)",
+          "en": "70g of pasta with 150g of  meat (you can add a little sauce)"
+        },
+        "calories": 400,
+        "protein": 30,
+        "carbohydrates": 60,
+        "fat": 20
+      },
+      "snack": {
+        "image": "https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2021/01/06153049/5.jpg",
+        "description": {
+          "ar": "30غ من المكسرات المفضلة لديك، ويمكنك اختيار اللوز كوجبة خفيفة ل النظام الغذائي",
+          "en": "30g of your favorite nuts, and you can choose almonds as a snack for a diet"
+        },
+        "calories": 170,
+        "protein": 6,
+        "carbohydrates": 6,
+        "fat": 15
+      },
+      "dinner": {
+        "image": "https://www.allrecipes.com/thmb/U9yU-C8PdU7faLNGmigRyLg2a6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16468-tuna-fish-salad-DDMFS-beauty-4x3-BG-2952-2cf0f9bf122c4496b3ae9bb0147fb6d5.jpg",
+        "description": {
+          "ar": "200غ من التونا، 70غ من الأرز غير المطبوخ، و بطاطا مسلوقة (170غ)",
+          "en": "200g of tuna, 70g of uncooked rice, and a boiled potato (170g)"
+        },
+        "calories": 500,
+        "protein": 50,
+        "carbohydrates": 60,
+        "fat": 10
+      },
+      "evening_snack": {
+        "image": "",
+        "description": {
+          "ar": "",
+          "en": ""
+        },
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0
+      },
+      "nutritional_information": {
+        "calories": 1320,
+        "protein": 106,
+        "carbohydrates": 206,
+        "fat": 55
+      }
+    },
+    {
+      "title": "1400 Cal",
+      "breakfast": {
+        "image": "https://www.allrecipes.com/thmb/_tlTl7zfu2mCZzzuf9r8WOW-31U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/256007-best-scrambled-eggs-ddmfs-3X4-0031-ff526aac78f24031a5f947a546918a39.jpg",
+        "description": {
+          "ar": "4 بيضات أو أومليت",
+          "en": "4 eggs or omelette"
+        },
+        "calories": 288,
+        "protein": 25,
+        "carbohydrates": 0,
+        "fat": 5
+      },
+      "mid_morning_snack": {
+        "image": "",
+        "description": {
+          "ar": "",
+          "en": ""
+        },
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0
+      },
+      "lunch": {
+        "image": "https://www.eatingbirdfood.com/wp-content/uploads/2021/12/air-fryer-chicken-breast-hero.jpg",
+        "description": {
+          "ar": "100غ من الأرز غير المطبوخ (أو 300غ مطبوخ) + 150غ من صدور الدجاج المطبوخة",
+          "en": "100g of uncooked rice (or 300g cooked) + 150g of cooked chicken breast"
+        },
+        "calories": 420,
+        "protein": 35,
+        "carbohydrates": 60,
+        "fat": 10
+      },
+      "snack": {
+        "image": "https://images.squarespace-cdn.com/content/v1/5c4b0951620b857e9a6fde21/1555022300266-0LCXOEDPH712ZS2I3T4M/7B6B43B8-B8FE-413A-A6E2-C88E13E97D20.jpg",
+        "description": {
+          "ar": "موز (100غ) مع 20غ من الفول السوداني أو أي فاكهة عالية البروتين أخرى",
+          "en": "Banana (100g) with 20g of peanuts or any other high-protein fruit"
+        },
+        "calories": 150,
+        "protein": 4,
+        "carbohydrates": 30,
+        "fat": 8
+      },
+      "dinner": {
+        "image": "https://www.allrecipes.com/thmb/_tlTl7zfu2mCZzzuf9r8WOW-31U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/256007-best-scrambled-eggs-ddmfs-3X4-0031-ff526aac78f24031a5f947a546918a39.jpg",
+        "description": {
+          "ar": "2 بيضات في أومليت مع 100غ من صدور الدجاج المطبوخة، 500مل من الحليب، و 25غ من الفول السوداني أو اللوز",
+          "en": "2 eggs in an omelette with 100g of cooked chicken breast, 500ml of milk, and 25g of peanuts or almonds"
+        },
+        "calories": 550,
+        "protein": 40,
+        "carbohydrates": 60,
+        "fat": 20
+      },
+      "evening_snack": {
+        "image": "",
+        "description": {
+          "ar": "",
+          "en": ""
+        },
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0
+      },
+      "nutritional_information": {
+        "calories": 1408,
+        "protein": 104,
+        "carbohydrates": 150,
+        "fat": 44
+      }
+    },
+    {
+      "title": "1450 Cal",
+      "breakfast": {
+        "image": "https://www.gimmesomeoven.com/wp-content/uploads/2022/08/Muesli-Recipe-10.jpg",
+        "description": {
+          "ar": "50غ من الشوفان مع 300مل من الحليب و30غ من الفواكه الجافة المجففة",
+          "en": "50g of oats with 300ml of milk and 30g of dry fruits"
+        },
+        "calories": 300,
+        "protein": 15,
+        "carbohydrates": 50,
+        "fat": 10
+      },
+      "lunch": {
+        "description": {
+          "image": "https://www.allrecipes.com/thmb/_tlTl7zfu2mCZzzuf9r8WOW-31U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/256007-best-scrambled-eggs-ddmfs-3X4-0031-ff526aac78f24031a5f947a546918a39.jpg",
+          "ar": "4 بيضات في أومليت مع 100غ من الدجاج أو التونة أو اللحم، و50غ من الخبز (الأرز)",
+          "en": "4 whole eggs inan omelette with 100g of chicken or tuna or meat, and 50g of pastry (bread, rice)"
+        },
+        "calories": 500,
+        "protein": 35,
+        "carbohydrates": 50,
+        "fat": 20
+      },
+      "snack": {
+        "image": "https://images.squarespace-cdn.com/content/v1/5c4b0951620b857e9a6fde21/1555022300266-0LCXOEDPH712ZS2I3T4M/7B6B43B8-B8FE-413A-A6E2-C88E13E97D20.jpg",
+        "description": {
+          "ar": "موز أو 118غ من أي فاكهة أخرى",
+          "en": "Banana or 118g of any fruit"
+        },
+        "calories": 150,
+        "protein": 2,
+        "carbohydrates": 35,
+        "fat": 0
+      },
+      "mid_morning_snack": {
+        "image": "",
+        "description": {
+          "ar": "",
+          "en": ""
+        },
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0
+      },
+      "dinner": {
+        "image": "https://www.eatingbirdfood.com/wp-content/uploads/2021/12/air-fryer-chicken-breast-hero.jpg",
+        "description": {
+          "ar": "100غ من الأرز المطبوخ (300غ) مع 150غ من صدور الدجاج المطبوخة",
+          "en": "100g of cooked rice (300g) served with 150g of cooked chicken breast"
+        },
+        "calories": 500,
+        "protein": 40,
+        "carbohydrates": 60,
+        "fat": 10
+      },
+      "evening_snack": {
+        "image": "",
+        "description": {
+          "ar": "",
+          "en": ""
+        },
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0
+      },
+      "nutritional_information": {
+        "calories": 1450,
+        "protein": 92,
+        "carbohydrates": 195,
+        "fat": 40
+      }
+    },
+    {
+      "title": "1500 Cal",
+      "breakfast": {
+        "image": "https://kitchenlovestories.com/wp-content/uploads/2014/05/Website-MainImage.png",
+        "description": {
+          "ar": "مزيج 40غ من الشوفان مع 200مل من الحليب وأضف موز أو بعض الفواكه الجافة",
+          "en": "Mix 40g of oats with 200ml of milk and add a banana or a few dry fruits"
+        },
+        "calories": 250,
+        "protein": 10,
+        "carbohydrates": 45,
+        "fat": 5
+      },
+      "lunch": {
+        "image": "https://www.eatingbirdfood.com/wp-content/uploads/2021/12/air-fryer-chicken-breast-hero.jpg",
+        "description": {
+          "ar": "150غ من الدجاج المشوي أو المقلي مع 100غ من الأرز المطبوخ، البندورة، البصل، والفلفل",
+          "en": "150g of grilled or fried chicken breast with 100g of cooked rice, tomatoes, onions, and peppers"
+        },
+        "calories": 500,
+        "protein": 40,
+        "carbohydrates": 50,
+        "fat": 15
+      },
+      "snack": {
+        "image": "https://assets.vogue.in/photos/5eafc3ee141f230cb35f9ad0/1:1/w_4016,h_4016,c_limit/nuts%20and%20seeds.jpg",
+        "description": {
+          "ar": "30غ من الفول السوداني مجروش أو 170غ من الزبادي اليوغورت الأسود",
+          "en": "30g of roasted peanuts or 170g of Greek yogurt"
+        },
+        "calories": 200,
+        "protein": 10,
+        "carbohydrates": 20,
+        "fat": 10
+      },
+      "dinner": {
+        "image": "https://www.allrecipes.com/thmb/_tlTl7zfu2mCZzzuf9r8WOW-31U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/256007-best-scrambled-eggs-ddmfs-3X4-0031-ff526aac78f24031a5f947a546918a39.jpg",
+        "description": {
+          "ar": "4 بيضات مقلية مع 100غ من البطاطس المسلوقة، مقاومة بالزبد، و50غ من الخبز (الأرز)",
+          "en": "4 boiled eggs with 100g of boiled potatoes, fried in butter, and 50g of pastry (bread, rice)"
+        },
+        "calories": 550,
+        "protein": 30,
+        "carbohydrates": 60,
+        "fat": 25
+      },
+      "mid_morning_snack": {
+        "image": "",
+        "description": {
+          "ar": "",
+          "en": ""
+        },
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0
+      },
+      "evening_snack": {
+        "image": "",
+        "description": {
+          "ar": "",
+          "en": ""
+        },
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0
+      },
+      "nutritional_information": {
+        "calories": 1500,
+        "protein": 90,
+        "carbohydrates": 175,
+        "fat": 55
+      }
+    },
+    {
+      "title": "1800 Cal",
+      "breakfast": {
+        "image": "https://cookaifood.com/media/cache/thumb_600/bundles/project/images/recipes/320_1_1679560210.png",
+        "description": {
+          "ar": "2 بيضات مسلوقة، 30 غم من المكسرات، وموز أو تفاح.",
+          "en": "2 boiled eggs, 30 grams of nuts, and an orange or apple."
+        },
+        "calories": 300,
+        "protein": 15,
+        "carbohydrates": 15,
+        "fat": 20
+      },
+      "mid_morning_snack": {
+        "image": "",
+        "description": {
+          "ar": "",
+          "en": ""
+        },
+        "calories": 200,
+        "protein": 10,
+        "carbohydrates": 30,
+        "fat": 10
+      },
+      "evening_snack": {
+        "image": "",
+        "description": {
+          "ar": "",
+          "en": ""
+        },
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0
+      },
+      "lunch": {
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/prawn-salmon-burgers-with-spicy-mayo-dd4604e.jpg?quality=90&resize=500,454",
+        "description": {
+          "ar": "100غ من برجر مع 150غ من لحم  شريحة من الجبن الأمريكي، وجانب من موز.",
+          "en": "100g burger with 150g ground beef, a slice of American cheese, and a side of a banana."
+        },
+        "calories": 500,
+        "protein": 30,
+        "carbohydrates": 30,
+        "fat": 30
+      },
+      "snack": {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/peanut-butter-vegan-1556206811.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+        "description": {
+          "ar": "موز مع 2 ملعقتين من زبدة الفول السوداني.",
+          "en": "A banana with 2 tablespoons of peanut butter."
+        },
+        "calories": 200,
+        "protein": 5,
+        "carbohydrates": 25,
+        "fat": 10
+      },
+      "dinner": {
+        "image": "https://www.eatingbirdfood.com/wp-content/uploads/2021/12/air-fryer-chicken-breast-hero.jpg",
+        "description": {
+          "ar": "200غ من صدور الدجاج المطبوخة بالزبد، سلطة خضار، و100غ من الخبز.",
+          "en": "200g of chicken breast cooked in butter, a green salad, and 100g of bread."
+        },
+        "calories": 800,
+        "protein": 60,
+        "carbohydrates": 50,
+        "fat": 30
+      },
+      "nutritional_information": {
+        "calories": 1821,
+        "protein": 140,
+        "carbohydrates": 175,
+        "fat": 64
+      }
+    },
+    {
+      "title": "2500 Cal",
+      "breakfast": {
+        "image": "https://cookaifood.com/media/cache/thumb_600/bundles/project/images/recipes/320_1_1679560210.png",
+        "description": {
+          "ar": "2 بيضات مسلوقة، 30 غم من المكسرات، وموز أو تفاح.",
+          "en": "2 boiled eggs, 30 grams of nuts, and an orange or apple."
+        },
+        "calories": 350,
+        "protein": 18,
+        "carbohydrates": 20,
+        "fat": 25
+      },
+      "mid_morning_snack": {
+        "image": "https://wholefoodsoulfoodkitchen.com/wp-content/uploads/2022/06/healthy-chocolate-milk-with-cocoa-powder-2.jpg",
+        "description": {
+          "ar": "150 مل من الحليب مع 15 غم من الشوكولاته.",
+          "en": "150ml of milk with 15g of chocolate."
+        },
+        "calories": 200,
+        "protein": 10,
+        "carbohydrates": 30,
+        "fat": 10
+      },
+      "lunch": {
+        "image": "https://www.eatingbirdfood.com/wp-content/uploads/2021/12/air-fryer-chicken-breast-hero.jpg",
+        "description": {
+          "ar": "120غ من الدجاج المشوي مع 180غ من الأرز، و90غ من الخضار.",
+          "en": "120g of grilled chicken with 180g of rice, and 90g of vegetables."
+        },
+        "calories": 600,
+        "protein": 40,
+        "carbohydrates": 50,
+        "fat": 20
+      },
+      "snack": {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/peanut-butter-vegan-1556206811.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+        "description": {
+          "ar": "موز مع 2 ملعقتين من زبدة الفول السوداني.",
+          "en": "A banana with 2 tablespoons of peanut butter."
+        },
+        "calories": 250,
+        "protein": 8,
+        "carbohydrates": 35,
+        "fat": 12
+      },
+      "dinner": {
+        "image": "https://www.eatingbirdfood.com/wp-content/uploads/2021/12/air-fryer-chicken-breast-hero.jpg",
+        "description": {
+          "ar": "220غ من صدور الدجاج المطبوخة بالزبد، سلطة خضار، و120غ من الخبز.",
+          "en": "220g of chicken breast cooked in butter, a green salad, and 120g of bread."
+        },
+        "calories": 750,
+        "protein": 55,
+        "carbohydrates": 60,
+        "fat": 25
+      },
+      "evening_snack": {
+        "image": "",
+        "description": {
+          "ar": "",
+          "en": ""
+        },
+        "calories": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "fat": 0
+      },
+      "nutritional_information": {
+        "calories": 2500,
+        "protein": 181,
+        "carbohydrates": 235,
+        "fat": 102
+      }
+    },
+    {
+      "title": "3000 Cal",
+      "breakfast": {
+        "image": "https://cookaifood.com/media/cache/thumb_600/bundles/project/images/recipes/320_1_1679560210.png",
+        "description": {
+          "ar": "3 بيضات مسلوقة، 40 غم من المكسرات، وموز أو تفاح.",
+          "en": "3 boiled eggs, 40 grams of nuts, and an orange or apple."
+        },
+        "calories": 450,
+        "protein": 22,
+        "carbohydrates": 20,
+        "fat": 30
+      },
+      "mid_morning_snack": {
+        "image": "https://wholefoodsoulfoodkitchen.com/wp-content/uploads/2022/06/healthy-chocolate-milk-with-cocoa-powder-2.jpg",
+        "description": {
+          "ar": "250 مل من الحليب مع 20 غم من الشوكولاته.",
+          "en": "250ml of milk with 20g of chocolate."
+        },
+        "calories": 250,
+        "protein": 15,
+        "carbohydrates": 35,
+        "fat": 10
+      },
+      "lunch": {
+        "image": "https://www.eatingbirdfood.com/wp-content/uploads/2021/12/air-fryer-chicken-breast-hero.jpg",
+        "description": {
+          "ar": "150غ من الدجاج المشوي مع 200غ من الأرز، و100غ من الخضار.",
+          "en": "150g of grilled chicken with 200g of rice, and 100g of vegetables."
+        },
+        "calories": 700,
+        "protein": 50,
+        "carbohydrates": 60,
+        "fat": 20
+      },
+      "snack": {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/peanut-butter-vegan-1556206811.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+        "description": {
+          "ar": "موز مع 3 ملعقتين من زبدة الفول السوداني.",
+          "en": "A banana with 3 tablespoons of peanut butter."
+        },
+        "calories": 300,
+        "protein": 8,
+        "carbohydrates": 40,
+        "fat": 15
+      },
+      "dinner": {
+        "image": "https://www.eatingbirdfood.com/wp-content/uploads/2021/12/air-fryer-chicken-breast-hero.jpg",
+        "description": {
+          "ar": "250غ من صدور الدجاج المطبوخة بالزبد، سلطة خضار، و150غ من الخبز.",
+          "en": "250g of chicken breast cooked in butter, a green salad, and 150g of bread."
+        },
+        "calories": 900,
+        "protein": 70,
+        "carbohydrates": 70,
+        "fat": 35
+      },
+      "evening_snack": {
+        "image": "https://wholefoodsoulfoodkitchen.com/wp-content/uploads/2022/06/healthy-chocolate-milk-with-cocoa-powder-2.jpg",
+        "description": {
+          "ar": "250 مل من الحليب مع 30 غم من الشوكولاته.",
+          "en": "250ml of milk with 30g of chocolate."
+        },
+        "calories": 300,
+        "protein": 20,
+        "carbohydrates": 40,
+        "fat": 15
+      },
+      "nutritional_information": {
+        "calories": 3000,
+        "protein": 205,
+        "carbohydrates": 265,
+        "fat": 125
+      }
+    }
+  ],
+  "articles": [
+    {
+      "image": "https://i.postimg.cc/zBDVCp78/Kepp-It-Up-3.png",
+      "name": "Super set",
+      "title": "Superset Exercises",
+      "description": {
+        "en": "Superset exercises involve working opposing muscle groups back to back with little rest in between.\n This type of training can help you get more done in the gym, increase strength and hypertrophy, and burn fat more efficiently.",
+        "ar": "تمارين السوبر سيت تتضمن العمل على مجموعات عضلات متعارضة متتالية مع قليل من الراحة في بينها. هذا النوع من التدريب يمكن أن يساعدك على إنجاز المزيد في الجيم، زيادة القوة والهيبرتروفي، وحرق الدهون بكفاءة أكبر."
+      },
+      "benefits": {
+        "en": "Increases strength and hypertrophy.\nBurns fat more efficiently.\nSaves time in the gym.\nImproves overall fitness",
+        "ar": "تزايد القوة والهيبرتروفي.\nحرق الدهون بكفاءة أكبر.\nتوفير الوقت في الجيم.\nتحسين اللياقة البدنية العامة"
+      },
+      "example": {
+        "en": "Biceps With  Triceps.\nChest With Back",
+        "ar": "العضلات الباى مع العضلات النراى.\nالصدر مع الظهر"
+      },
+      "how_to": {
+        "en": "Choose two exercises that target opposing muscle group.\nPerform one set of the first exercise.\nImmediately perform one set of the second exercise.\nRest for 1-2 minutes before repeating the sequence",
+        "ar": "اختر تمارينين يهدفان إلى مجموعات عضلات متعارضة.\nقم بتمارين مجموعة واحدة من التمارين الأولى.\nقم بتمارين مجموعة واحدة من التمارين الثانية فوراً.\nراحة لمدة 1-2 دقيقة قبل تكرار التسلسل"
+      },
+      "tips": {
+        "en": "Warm up your muscles before starting your workout.\nStretch after your workout to prevent injury.\nUse equipment properly to avoid injury.\nUse the correct technique and form for each exercise.\nStart with lighter weights and gradually increase the weight as you become more comfortable with the exercises",
+        "ar": "دفئ عضلاتك قبل بدء تمارينك.\nتمتد بعد تمارينك لمنع الإصابة.\nاستخدم المعدات بشكل صحيح لتجنب الإصابة.\nاستخدم التقنية والشكل الصحيح لكل تمارين.\nابدأ مع أوزان خفيفة وزد الوزن تدريجياً كلما أصبحت أكثر راحة مع التمارين"
+      }
+    },
+    {
+      "image": "https://i.postimg.cc/yxkx5d2G/Kepp-It-Up-2.png",
+      "name": "Drop set",
+      "title": "Drop Set Exercises",
+      "description": {
+        "en": "A drop set is a high-intensity training technique where you continue to lift a weight until you reach muscle failure, then immediately decrease the weight and continue for additional reps.",
+        "ar": " set هو تقنية تدريب بالدرجات العالية الشديدة حيث أنك تكمل رفع الوزن حتى تصل إلى فشل العضلات، ثم تقلل الوزن بشكل فوري وتكمل لمزيد من التكرارات."
+      },
+      "benefits": {
+        "en": "Increases muscle endurance.\nPromotes muscle growth.\nAdds variety to your workout routine.\nCan be done with various exercises and equipment",
+        "ar": "يزيد من قدرة العضلات على التحمل.\nترغيب النمو العضلي.\nإضافة التنوع إلى نمط تدريبك.\nيمكن أن يتم بتمارين ومعدات مختلفة"
+      },
+      "example": {
+        "en": "exercise : Barbell Curl.\nstarting_weight : 70 lbs.\nending_weight : 50 lbs",
+        "ar": "exercise : المقبض المبارز.\nstarting_weight : 32 كغ.\nending_weight : 23 كغ"
+      },
+      "how_to": {
+        "en": "Choose an exercise and starting weight.\nPerform as many reps as possible until muscle failure.\nImmediately decrease the weight by 10-30%.\nPerform additional reps until muscle failure or form breaks down.\nRest for 1-2 minutes before repeating the sequence",
+        "ar": "اختر تمرينا ووزنا البدائي.\nقم بعدد التكرارات الممكن الكثير حتى تصل إلى فشل العضلات.\nقم بتقليل الوزن بنسبة 10-30% فوراً.\nقم بعدد التكرارات الإضافية حتى تصل إلى فشل العضلات أو تتفاقم شكلك.\nاسكن لمدة 1-2 دقائق قبل تكرار التسلسل"
+      },
+      "tips": {
+        "en": "Warm up your muscles before starting your workout.\nStretch after your workout to prevent injury.\nUse equipment properly to avoid injury.\nUse the correct technique and form for each exercise.\nStart with a heavier weight and decrease it gradually",
+        "ar": "دفئ عضلاتك قبل بدء تمارينك.\nتمتد بعد تمارينك لمنع الإصابة.\nاستخدم المعدات بشكل صحيح لتجنب الإصابة .\nاستخدم التقنية والشكل الصحيح لكل تمرين.\nابدأ مع وزن أثقل وقم بتقليله تدريجياً"
+      }
+    },
+    {
+      "image": "https://i.postimg.cc/nh7jpXMb/Kepp-It-Up-1.png",
+      "name": "High intensity",
+      "title": "High-Intensity ",
+      "description": {
+        "en": "A workout routine designed to help individuals build muscle mass and strength through low-volume, high-intensity training.",
+        "ar": "برنامج تدريب مصمم لمساعدة الأفراد على بناء كتلة عضلية وقوة من خلال تدريب بالدرجات العالية الشديدة والكمية المنخفضة."
+      },
+      "benefits": {
+        "en": "Increases muscle endurance.\nPromotes muscle growth.\nAdds variety to your workout routine.\nCan be done with various exercises and equipment",
+        "ar": "يزيد من قدرة العضلات على التحمل.\nترغيب النمو العضلي.\nإضافة التنوع إلى نمط تدريبك.\nيمكن أن يتم بتمارين ومعدات مختلفة"
+      },
+      "example": {
+        "en": "exercise : Squats.\nsets : 3 .\nreps 3-5.\nweight 100 lbs.\nexercise : Deadlifts.\nsets 3.\nreps : 3-5.\nweight : 90 lbs",
+        "ar": "exercise : Squats (3 sets, 3-5 reps, 100 كغ)\n exercise : Deadlifts (3 sets, 3-5 reps, 100 كغ)"
+      },
+      "how_to": {
+        "en": "Warm up with 5-10 minutes of cardio and stretching.\nPerform each exercise with 3 sets of 3-5 reps.\nRest for 2-3 minutes between sets.\nIncrease the weight or reps as you get stronger. \nMake sure to eat a balanced diet that supports muscle growth and recovery",
+        "ar": "دفئ مع 5-10 دقائق من الكارديو والتمديد.\nقم بكل تمرين مع 3 مجموعات من 3-5 تكرارات.\nاسكن لمدة 2-3 دقائق بين المجموعات.\nقم بزيادة الوزن أو التكرارات عندما تصبح أقوى.\nتأكد من تناول نظام غذائي متوازن يدعم نمو العضلات والاسترداد"
+      },
+      "tips": {
+        "en": "Focus on proper form and technique.\nUse a weight that allows you to complete the given number of reps.\nIncrease the weight or reps as you get stronger.\nMake sure to warm up and cool down properly.\nStay hydrated and get enough rest",
+        "ar": "ركز على الشكل والتقنية الصحيحين.\nاستخدم وزن يسمح لك بإكمال عدد التكرارات المحدد.\nقم بزيادة الوزن أو التكرارات عندما تصبح أقوى.\nتأكد من دفئك وتبريدك بشكل صحيح.\nابق رطباً وخذ قسط كافي من الراحة"
+      }
+    },
+    {
+      "image": "https://i.postimg.cc/sf6ZcFb8/Kepp-It-Up-4.png",
+      "name": "Muscular failure",
+      "title": "Muscular Failure ",
+      "description": {
+        "en": "Muscular failure is when the neuromuscular system can no longer produce adequate force for a muscle / muscle groups to contract concentrically. \nFor example, during bench press when you bring the bar down to your chest, and your chest, triceps and shoulders can’t generate enough force to push it back up.\nMechanical failure is when you can no longer perform the movement by executing safe and correct form through a full range of motion.\n For example, if you perform a set of 10 squats and for the first 7 your legs reach parallel.\n However, for the last 3 reps you are unable to achieve your previous depth, your knees start to cave in, and your back begins to arch. \nTechnically you lifted the weight for 10 reps, however you were unable to execute each one with proper form",
+        "ar": "فشل العضلات هو عندما لا يمكن لنظام العضلات العصبية أن ينتج قوة كافية للتعاقد الداخلي لعضلة / عضلات ما.\n على سبيل المثال، أثناء تمرين الضغط على الصدر عندما توضع ساروت المقابلة على الصدر، \nولا يمكن لعضلات الصدر والربل والمخاريق توليد القوة الكافية لرفعها مرة أخرى.\nوفشل ميكانيكي هو عندما لا يمكنك تنفيذ الحركة بشكل آمن وصحيح عبر مدى حركة كامل.\n على سبيل المثال، إذا قمت بتنفيذ عبور من 10 طرح وفي الأوائل 7 طرحاً يبلغ رجليكم المستوى المثالي.\n ومع ذلك، في آخر 3 رفعات لا يمكنك تحقيق عمقك السابق، ويبدأ انكسار عظم الركبة، ويبدأ انحناء عظم العروق.\n فالأمر على الرغم من أنه رفعت الوزن ل-10 رفعات، ولكنك لم تكن قادراً على تنفيذ كل واحد مع الشكل الصحيح."
+      },
+      "benefits": {
+        "en": "Improves muscle growth and strength.\nEnhances workout efficiency.\nReduces risk of injury.\nIncreases muscle endurance",
+        "ar": "يحسن نمو العضلات وقوة.\nيحسن كفاءة التدريب.\nيقلل من مخاطر الإصابة.\nيحسن قدرة العضلات على التحمل"
+      },
+      "example": {
+        "en": "exercise : Bench Press.\nsets : 3.\nreps : 3-5.\nweight : 70 lbs.\nfailure_type : Muscular Failure.\nexercise : Squats.\nsets : 3.\nreps : 3-5.\nweight : 80 lbs.\nfailure_type : Mechanical Failure",
+        "ar": "exercise : Bench Press.\nsets 3.\nreps : 3-5.\nweight : 32 كغ.\nfailure_type : الفشل العضلي.\nexercise : Squats.\nsets : 3.\nreps : 3-5.\nweight : 36 كغ.\nfailure_type : الفشل الميكانيكي"
+      },
+      "how_to": {
+        "en": "Identify your muscular failure point.\nAdjust your weight and reps accordingly.\nFocus on proper form and technique.\nIncrease the weight or reps as you get stronger.\nMake sure to warm up and cool down properly",
+        "ar": "حدد نقطة فشل عضلي.\nعدل الوزن والتكرارات وفقاً لذلك.\nركز على الشكل والتقنية الصحيحين.\nقم بزيادة الوزن أو التكرارات عندما تصبح أقوى.\nتأكد من دفئك وتبريدك بشكل صحيح"
+      },
+      "tips": {
+        "en": "Don't sacrifice form for heavier weights.\nUse a weight that allows you to complete the given number of reps.\nIncrease the weight or reps as you get stronge.\nMake sure to warm up and cool down properly.\nStay hydrated and get enough rest",
+        "ar": "لا تضحي بالشكل من أجل أوزان أثقل.\nاستخدم وزن يسمح لك بإكمال عدد التكرارات المحدد.\nقم بزيادة الوزن أو التكرارات عندما تصبح أقوى.\nتأكد من دفئك وتبريدك بشكل صحيح.\nابق رطباً وخذ قسط كافي من الراحة"
+      }
+    }
+  ],
+  "Core": {
+    "name": "Core Workout",
+    "date": "Monday, July 1, 2024",
+    "exercises": [
+      {
+        "exercise": "Plank",
+        "description": "Engage your core muscles to support your body in a straight line from head to heels.",
+        "bodyPart": "core",
+        "sets": 3,
+        "reps": 30,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/07/plank-sagging-hips-torso-1024x394.png"
+      },
+      {
+        "exercise": "Russian twists",
+        "description": "Twist your torso to target your obliques.",
+        "bodyPart": "core",
+        "sets": 3,
+        "reps": 15,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-russian-twist.gif"
+      },
+      {
+        "exercise": "leg raises",
+        "description": "Lift your legs to target your lower abs.",
+        "bodyPart": "core",
+        "sets": 3,
+        "reps": 15,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2021/10/supine-leg-raises.gif"
+      },
+      {
+        "exercise": "bicycle crunches",
+        "description": "Alternate bringing your knees towards your chest to target your entire core.",
+        "bodyPart": "core",
+        "sets": 3,
+        "reps": 15,
+        "gif": "https://homeworkouts.org/wp-content/uploads/anim-air-bike-crunches.gif"
+      }
+    ]
+  },
+  "Forearms": {
+    "name": "Forearms Workout",
+    "date": "Thursday, July 4, 2024",
+    "exercises": [
+      {
+        "exercise": "Wrist curls ",
+        "description": "Hold dumbbells with your palms facing up and curl your wrists to target your forearms.",
+        "bodyPart": "forearms",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/07/barbell-wrist-curl.gif"
+      },
+      {
+        "exercise": "Wrist extensions",
+        "description": "Hold dumbbells with your palms facing down and lift your wrists to target your forearms.",
+        "bodyPart": "forearms",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/03/barbell-reverse-wrist-curl.gif"
+      },
+      {
+        "exercise": "Back Wrist Curl",
+        "description": " ",
+        "bodyPart": "forearms",
+        "sets": 3,
+        "reps": 15,
+        "gif": "https://newlife.com.cy/wp-content/uploads/2019/11/01041301-Barbell-Standing-Back-Wrist-Curl_Forearms_360.gif"
+      },
+      {
+        "exercise": "forearm push-ups",
+        "description": "Place your hands on a chair and do push-ups to target your forearms and upper body.",
+        "bodyPart": "forearms",
+        "sets": 3,
+        "reps": 10,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/04/forearm-push-ups.gif"
+      }
+    ]
+  },
+  "FullBody": {
+    "name": "Home Full Body Workout",
+    "date": "Saturday, July 6, 2024",
+    "exercises": [
+      {
+        "exercise": "Burpees",
+        "description": "A full-body exercise that targets your arms, legs, and core.",
+        "bodyPart": "full body",
+        "sets": 3,
+        "reps": 10,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/01/burpee-movement.gif"
+      },
+      {
+        "exercise": "Mountain climbers",
+        "description": "A cardio exercise that targets your legs, core, and arms.",
+        "bodyPart": "full body",
+        "sets": 3,
+        "reps": 30,
+        "gif": "https://homeworkouts.org/wp-content/uploads/anim-mountain-climbers.gif"
+      },
+      {
+        "exercise": "Push-ups",
+        "description": "Targets your chest, shoulders, and triceps.",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://i.pinimg.com/originals/23/6a/19/236a19e477aa92a6a22e9748b881ee73.gif"
+      },
+      {
+        "exercise": "Squats",
+        "description": "Targets your legs and glutes.",
+        "bodyPart": "lower body",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2021/06/bodyweight-squat-2.gif"
+      },
+      {
+        "exercise": "Lunges",
+        "description": "Targets your legs and glutes.",
+        "bodyPart": "lower body",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/07/bodyweight-forward-lunge.gif"
+      },
+      {
+        "exercise": "Plank jacks",
+        "description": "A cardio exercise that targets your core and legs.",
+        "bodyPart": "full body",
+        "sets": 3,
+        "reps": 30,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/08/push-up-jack-muscles.gif"
+      },
+      {
+        "exercise": "Arnold dips (using a chair)",
+        "description": "Targets your triceps.",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.aesthetics-blog.com/wp-content/uploads/2023/04/43601301-Bench-Dip-with-legs-on-bench_Upper-Arms_720.gif"
+      },
+      {
+        "exercise": "Wall sit",
+        "description": "Targets your legs and glutes.",
+        "bodyPart": "lower body",
+        "sets": 3,
+        "reps": 60,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/08/wall-sit.gif"
+      }
+    ]
+  },
+  "UpperBodyBeg": {
+    "name": "Home Upper Body Workout",
+    "date": "Saturday, July 6, 2024",
+    "exercises": [
+      {
+        "exercise": "Push-ups",
+        "description": "Targets your chest, shoulders, and triceps.",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2021/04/liegestuetze_anfaenger-klassische_liegestuetzen.gif"
+      },
+      {
+        "exercise": "Arnold dips (using a chair)",
+        "description": "Targets your triceps.",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.aesthetics-blog.com/wp-content/uploads/2023/04/43601301-Bench-Dip-with-legs-on-bench_Upper-Arms_720.gif"
+      },
+      {
+        "exercise": "Arm circles",
+        "description": "Targets your shoulders and arms.",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 15,
+        "gif": "https://homeworkouts.org/wp-content/uploads/anim-arm-circles-stretch.gif"
+      },
+      {
+        "exercise": "Bicep curls (using water bottles or cans)",
+        "description": "Targets your biceps.",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://homeworkouts.org/wp-content/uploads/anim-dumbbell-bicep-curls.gif"
+      },
+      {
+        "exercise": "Shoulder rolls (using water bottles or cans)",
+        "description": "Targets your shoulders and upper back.",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 15,
+        "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/04/Dumbbell-Shrug.gif"
+      }
+    ]
+  },
+  "UpperBodyAdv": {
+    "name": "Home Upper Body Workout (Advanced)",
+    "date": "Saturday, July 6, 2024",
+    "exercises": [
+      {
+        "exercise": "Diamond push-ups",
+        "description": "Targets your chest, shoulders, and triceps, with an emphasis on the triceps.",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 10,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2021/08/diamond-pushup.gif"
+      },
+      {
+        "exercise": "Inverted rows (using a chair or bench)",
+        "description": "Targets your back and arms.",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/03/inverted-row.gif"
+      },
+      {
+        "exercise": "Tricep dips (using a chair)",
+        "description": "Targets your triceps .",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 10,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/11/bench-dips-on-floor.gif"
+      },
+      {
+        "exercise": "Bicep curls (using dumbbells or water bottles) with hammer grip",
+        "description": "Targets your biceps with a variation of the traditional curl.",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/01/inner-bicep-curl.gif"
+      },
+      {
+        "exercise": "Skull crushers (using a Bar or water bottle)",
+        "description": "Targets your triceps with an advanced exercise.",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 10,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/08/flat-bench-skull-crusher.gif"
+      },
+      {
+        "exercise": "body saw plank",
+        "description": "Targets your Upper body .",
+        "bodyPart": "upper body",
+        "sets": 3,
+        "reps": 30,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/11/body-saw-plank.gif"
+      }
+    ]
+  },
+  "LowerBody": {
+    "name": "Home Lower Body Workout",
+    "date": "Saturday, July 6, 2024",
+    "exercises": [
+      {
+        "exercise": "Squats",
+        "description": "Targets your legs and glutes.",
+        "bodyPart": "lower body",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2021/06/bodyweight-squat-2.gif"
+      },
+      {
+        "exercise": "Lunges",
+        "description": "Targets your legs and glutes.",
+        "bodyPart": "lower body",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/07/bodyweight-forward-lunge.gif"
+      },
+      {
+        "exercise": "Calf raises",
+        "description": "Targets your calf muscles.",
+        "bodyPart": "lower body",
+        "sets": 3,
+        "reps": 15,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/03/donkey-calf-raise.gif"
+      },
+      {
+        "exercise": "hip thrust",
+        "description": "Targets your glutes and hamstrings.",
+        "bodyPart": "lower body",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/10/resistance-band-hip-thrust.gif"
+      },
+      {
+        "exercise": "Wall sits",
+        "description": "Targets your legs and glutes.",
+        "bodyPart": "lower body",
+        "sets": 3,
+        "reps": 60,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/08/wall-sit.gif"
+      }
+    ]
+  },
+  "Trapezius": {
+    "name": "Home Trapezius Workout (Advanced)",
+    "date": "Saturday, July 6, 2024",
+    "exercises": [
+      {
+        "exercise": "Arm shrugs",
+        "description": "Targets the trapezius muscle and improves unilateral strength.",
+        "bodyPart": "upper back",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2021/11/dumbbell-shrug.gif"
+      },
+      {
+        "exercise": "Behind back shrugs",
+        "description": "Targets the trapezius muscle and improves rotational strength.",
+        "bodyPart": "upper back",
+        "sets": 3,
+        "reps": 12,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/08/behind-the-back-shrugs.gif"
+      }
+    ]
+  },
+  "stertche_upper_after": {
+    "name": "Post-Workout Upper Body Stretch",
+    "date": "Monday, July 1, 2024",
+    "exercises": [
+      {
+        "exercise": "Doorway chest stretch",
+        "description": "Stretches the chest and improves flexibility.",
+        "bodyPart": "chest",
+        "sets": 1,
+        "reps": 30,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/09/doorway-chest-stretch.gif"
+      },
+      {
+        "exercise": "Arm above head chest stretch",
+        "description": "Targets the chest and improves flexibility and range of motion.",
+        "bodyPart": "chest",
+        "sets": 1,
+        "reps": 30,
+        "gif": "https://homeworkouts.org/wp-content/uploads/anim-above-head-chest-stretch.gif"
+      },
+      {
+        "exercise": "Chest and shoulder stretch",
+        "description": "Relaxes the shoulders and improves posture.",
+        "bodyPart": "shoulders",
+        "sets": 1,
+        "reps": 30,
+        "gif": "https://liftmanual.com/wp-content/uploads/2023/04/chest-and-front-of-shoulder-stretch.webp"
+      },
+      {
+        "exercise": "Back stretch",
+        "description": "Relaxes the Bcck and improves posture.",
+        "bodyPart": "Back",
+        "sets": 1,
+        "reps": 30,
+        "gif": "https://liftmanual.com/wp-content/uploads/2023/04/back-stretch.gif"
+      },
+      {
+        "exercise": "Neck circle stretch",
+        "description": "Stretches the neck and improves flexibility.",
+        "bodyPart": "neck",
+        "sets": 3,
+        "reps": 30,
+        "gif": "https://liftmanual.com/wp-content/uploads/2023/04/neck-circle-stretch.webp"
+      }
+    ]
+  },
+  "stertche_lower_after": {
+    "name": "Post-Workout Lower Body Stretch",
+    "date": "Monday, July 1, 2024",
+    "exercises": [
+      {
+        "exercise": "Standing hamstring stretch",
+        "description": "Stretches the hamstrings and improves flexibility.",
+        "bodyPart": "legs",
+        "sets": 1,
+        "reps": 30,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/09/standing-hamstring-stretch.gif"
+      },
+      {
+        "exercise": "Lying hamstring stretch",
+        "description": "Targets the hamstrings and glutes, improving flexibility and range of motion.",
+        "bodyPart": "legs",
+        "sets": 1,
+        "reps": 30,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/10/hamstring-wall-stretch.gif"
+      },
+      {
+        "exercise": "Standing quadriceps stretch",
+        "description": "Stretches the quadriceps and improves knee flexibility.",
+        "bodyPart": "legs",
+        "sets": 1,
+        "reps": 30,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/07/quadriceps-stretch.gif"
+      },
+      {
+        "exercise": "Prone quadriceps stretch",
+        "description": "Targets the quadriceps and improves flexibility and range of motion.",
+        "bodyPart": "legs",
+        "sets": 1,
+        "reps": 30,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/08/prone-quad-stretch.gif"
+      },
+      {
+        "exercise": "Calf stretch",
+        "description": "Stretches the calf muscles,hamstring and improves ankle flexibility.",
+        "bodyPart": "legs",
+        "sets": 1,
+        "reps": 30,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/08/standing-bent-knee-hip-adductor-stretch.gif"
+      }
+    ]
+  },
+  "Warm": {
+    "name": "Warm-up Cardio",
+    "date": "Monday, July 1, 2024",
+    "exercises": [
+      {
+        "exercise": "Jumping jacks",
+        "description": "Gets the heart rate up and loosens the muscles.",
+        "bodyPart": "full body",
+        "sets": 1,
+        "reps": 30,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/08/jumping-jack-high-knees.gif"
+      },
+      {
+        "exercise": "Running in place or treadmill",
+        "description": "Increases blood flow and prepares the muscles for exercise.",
+        "bodyPart": "full body",
+        "sets": 1,
+        "reps": 30,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/07/treadmill.gif"
+      },
+      {
+        "exercise": "Splitsquat",
+        "description": "Targets the legs and gets the heart rate up.",
+        "bodyPart": "leg",
+        "sets": 1,
+        "reps": 30,
+        "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/09/atg-split-squat.gif"
+      }
+    ]
+  }
+}

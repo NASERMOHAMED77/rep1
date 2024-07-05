@@ -1,0 +1,38 @@
+{
+
+
+
+
+  
+    "Carb Sources": [
+      {
+        "foodName": "Fries",
+        "carbohydrates":" 40g",
+        "calories": 340
+      },
+      {
+        "foodName": "Bread",
+        "carbohydrates": "30g",
+        "calories": 120
+      },
+      {
+        "foodName": "Rice",
+        "carbohydrates": "45g",
+        "calories": 150
+      },
+      {
+        "foodName": "Pasta",
+        "carbohydrates": "40g",
+        "calories": 160
+      },
+      {
+        "foodName": "Cereal",
+        "carbohydrates": "35g",
+        "calories": 110
+      }
+    ]
+  
+  
+  }
+
+  
