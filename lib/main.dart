@@ -10,6 +10,8 @@ import 'package:rep1/featuers/explore/peresintaion/manager/get_articles_cubit/ge
 import 'package:rep1/featuers/explore/peresintaion/manager/get_diat_cubit/get_diat_cubit.dart';
 import 'package:rep1/featuers/explore/peresintaion/manager/get_home_workouts.dart/get_home_workouts_cubit.dart';
 import 'package:rep1/featuers/explore/peresintaion/manager/get_workouts_cubit/get_workouts_cubit.dart';
+import 'package:rep1/featuers/profile/data/repo/repo_imp.dart';
+import 'package:rep1/featuers/profile/peresention/manager/profile_cubit/profile_cubit.dart';
 import 'package:rep1/featuers/track/data/model/workout_track_model.dart';
 import 'package:rep1/featuers/track/data/repo/home_repo_imp.dart';
 import 'package:rep1/featuers/track/peresintaion/manager/add_home_workouts_cubit/add_home_workout_cubit.dart';
@@ -52,6 +54,8 @@ void main() async {
       BlocProvider(create: (context) => CounterMainWorkoutCubit()),
       BlocProvider(
           create: (context) => GetWorkoutsCubit(getIt.get<ExploreRepoImp>())),
+      BlocProvider(
+          create: (context) => ProfileCubit(getIt.get<ProfileRepoImp>())),
       BlocProvider(
           create: (context) => GetArticlesCubit(getIt.get<ExploreRepoImp>())),
       BlocProvider(

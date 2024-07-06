@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -29,33 +28,37 @@ class DropDownSetWidget extends StatelessWidget {
               decoration: BoxDecoration(
                   color: ColorManager.orangeWithOp10Color,
                   borderRadius: BorderRadius.circular(10)),
-              child: Padding(
-                padding: EdgeInsets.symmetric(horizontal: 8.w),
-                child: DropdownButton<String>(
-                  elevation: 0,
-                  value: "Select Workout",
-                  isExpanded: true,
-                  borderRadius: BorderRadius.circular(10),
-                  onChanged: (value) {
-                    BlocProvider.of<ChangeDropDownSetCubit>(context)
-                        .selectItem(value.toString());
-                  },
-                  underline: const Text(""),
-                  onTap: () {},
-                  items: context
-                      .read<ChangeDropDownWorkoutCubit>()
-                      .workoutItem
-                      .map((item) {
-                    return DropdownMenuItem<String>(
-                      alignment: Alignment.centerLeft,
-                      value: item,
-                      child: Text(
-                        item,
-                        style: Styles.textStyle10w700,
-                      ),
-                    );
-                  }).toList(),
-                ),
+              child: BlocBuilder<ChangeDropDownSetCubit, String>(
+                builder: (context, state) {
+                  return Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 8.w),
+                    child: DropdownButton<String>(
+                      elevation: 0,
+                      value: context.read<ChangeDropDownSetCubit>().state,
+                      isExpanded: true,
+                      borderRadius: BorderRadius.circular(10),
+                      onChanged: (value) {
+                        BlocProvider.of<ChangeDropDownSetCubit>(context)
+                            .selectItem(value.toString());
+                      },
+                      underline: const Text(""),
+                      onTap: () {},
+                      items: context
+                          .read<ChangeDropDownWorkoutCubit>()
+                          .workoutItem
+                          .map((item) {
+                        return DropdownMenuItem<String>(
+                          alignment: Alignment.centerLeft,
+                          value: item,
+                          child: Text(
+                            item,
+                            style: Styles.textStyle10w700,
+                          ),
+                        );
+                      }).toList(),
+                    ),
+                  );
+                },
               ),
             ),
           ],

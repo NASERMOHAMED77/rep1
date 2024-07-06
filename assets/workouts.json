@@ -17,7 +17,7 @@
               "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2021/04/liegestuetze_anfaenger-klassische_liegestuetzen.gif"
             },
             {
-              "exercise": "Bench Press",
+              "exercise": "Decline Bar Bench Press",
               "sets": 3,
               "weight": "80-100 lbs",
               "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/05/bankdruecken_langhantel.gif"
@@ -29,19 +29,19 @@
               "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2021/03/schraegbank_uebungen-kurzhantel_schraegbankdruecken.gif"
             },
             {
-              "exercise": " cable crossover",
+              "exercise": "Cable crossover",
               "sets": 3,
               "weight": "20-30 lbs",
               "gif": "https://menspower.nl/wp-content/uploads/2018/03/cable-crossover.gif"
             },
             {
-              "exercise": "Lateral raise cable",
+              "exercise": "dumbbell lateral raise",
               "sets": 3,
               "weight": "20-30 lbs",
-              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/07/frontheben_kurzhantel-stehend_einarmig.gif"
+              "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/03/dumbbell-lateral-raise.gif"
             },
             {
-              "exercise": "cable triceps pushdown",
+              "exercise": "Cable triceps pushdown",
               "sets": 3,
               "weight": "20-30 lbs",
               "gif": "https://menspower.nl/wp-content/uploads/2018/03/cable-triceps-pushdown.gif"
@@ -73,7 +73,7 @@
               "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/uebungen_latissimus-einarmiges_kurzhantelrudern.gif"
             },
             {
-              "exercise": "barbell rowing underhand grip",
+              "exercise": "Barbell rowing underhand grip",
               "sets": 3,
               "weight": "bodyweight",
               "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/07/lat_muskel-rudern_langhantel_untergriff.gif"
@@ -129,7 +129,7 @@
               "gif": "https://codaio.imgix.net/docs/toQ738vXc0/blobs/bl-XSExo-oZTa/c05e276e16fd9514738dde20372561a358e7deba5594d27e4d840e2c8fb32396c58a2a2efc7ebe331c0e581dcffcab1b03007de93a092fc615fb6bb27ffcfe358291165b78e937f72c24da6c41fbdf3c0fa335207a4f3705ef2b85f07e677bc36ce36c1d?auto=format%2Ccompress&fit=max"
             },
             {
-              "exercise": " leg extension machine",
+              "exercise": " Leg extension machine",
               "sets": 3,
               "weight": "100-120 lbs",
               "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/beine_muskelaufbau-beinstrecken_maschine.gif"
@@ -174,7 +174,7 @@
           ],
           "exercises": [
             {
-              "exercise": "Bench Press",
+              "exercise": "Decline Bar Bench Press",
               "sets": 4,
               "reps": " 8-12",
               "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/05/bankdruecken_langhantel.gif"
@@ -207,7 +207,7 @@
           ],
           "exercises": [
             {
-              "exercise": "Pull-Ups",
+              "exercise": "Pull Ups",
               "sets": 0,
               "reps": "as many sets as possible",
               "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/uebungen_latissimus-breite_klimmzuege_obergriff.gif"
@@ -216,13 +216,13 @@
               "exercise": "Barbell Rows",
               "sets": 4,
               "reps": " 8-12",
-              "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/uebungen_latissimus-breite_klimmzuege_obergriff.gif"
+              "gif": "https://i.pinimg.com/originals/78/96/d9/7896d944ba4cd105ec876221e692155e.gif"
             },
             {
               "exercise": "Seated Cable Rows",
               "sets": 3,
               "reps": "10-15",
-              "gif": "https://images.squarespace-cdn.com/content/v1/5ffcea9416aee143500ea103/1638351904146-GDGXXL9IHXKQKTXULLHF/Seated%2BCable%2BRow.jpeg"
+              "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2023/07/cable-wide-grip-row.gif"
             },
             {
               "exercise": "Bicep Curls",
@@ -284,13 +284,13 @@
               "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/11/beine_muskelaufbau-beinpresse.gif"
             },
             {
-              "exercise": "Leg Curls",
+              "exercise": "Leg Curls machine",
               "sets": 3,
               "reps": "12-15",
               "gif": "https://www.fitundattraktiv.de/wp-content/uploads/2018/10/beintraining_trainingsplan-beinbeuger_maschine.gif"
             },
             {
-              "exercise": "Calf Raises",
+              "exercise": "Lever Seated Calf Raise",
               "sets": 3,
               "reps": "15-20",
               "gif": "https://newlife.com.cy/wp-content/uploads/2019/11/26661301-Lever-Seated-Calf-Raise-plate-loaded-VERSION-2_Calves_360.gif"

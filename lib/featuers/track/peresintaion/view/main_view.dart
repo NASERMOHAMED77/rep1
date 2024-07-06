@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:rep1/core/colors.dart';
 import 'package:rep1/featuers/explore/peresintaion/view/explore.dart';
+import 'package:rep1/featuers/profile/peresention/view/profile_view.dart';
 import 'package:rep1/featuers/track/peresintaion/view/home_view.dart';
 import 'package:responsive_navigation_bar/responsive_navigation_bar.dart';
 
@@ -23,7 +24,8 @@ class _MyWidgetState extends State<MyWidget> {
   List<Widget> screens = [
     const HomeView(),
     const ExploreViewFea(),
-    const ProfileView(),
+     ProfileView(),
+    
   ];
   @override
   Widget build(BuildContext context) {
@@ -58,14 +60,5 @@ class _MyWidgetState extends State<MyWidget> {
       ),
       body: screens[_selectedIndex],
     );
-  }
-}
-
-class ProfileView extends StatelessWidget {
-  const ProfileView({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return const Scaffold();
   }
 }

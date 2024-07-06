@@ -6,6 +6,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:rep1/core/colors.dart';
 import 'package:rep1/core/styles.dart';
 import 'package:rep1/featuers/track/peresintaion/manager/add_home_workouts_cubit/add_home_workout_cubit.dart';
+
 class DropDownWorkoutWidget extends StatelessWidget {
   const DropDownWorkoutWidget({super.key});
 
@@ -44,7 +45,8 @@ class DropDownWorkoutWidget extends StatelessWidget {
                     'Bench',
                     'Back',
                     'Shoulder',
-                    'Arm',
+                    'Triesips',
+                    'Bisips',
                     'Leg',
                   ].map((item) {
                     return DropdownMenuItem<String>(

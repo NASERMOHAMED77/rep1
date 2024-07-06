@@ -15,6 +15,7 @@ import 'package:rep1/featuers/explore/peresintaion/view/explore_widgets/article_
 import 'package:rep1/featuers/explore/peresintaion/view/explore_widgets/diet_step/diet_step_widget.dart';
 import 'package:rep1/featuers/explore/peresintaion/view/explore_widgets/water_step/water_widget.dart';
 import 'package:rep1/featuers/explore/peresintaion/view/explore_widgets/workout_step/workout_step_widget.dart';
+import 'package:rep1/featuers/profile/peresention/manager/bmi_cubit/bmi_cubit.dart';
 
 class ExploreViewFea extends StatefulWidget {
   const ExploreViewFea({super.key});
@@ -68,15 +69,22 @@ class _ExploreViewFeaState extends State<ExploreViewFea> {
                             color: Colors.white,
                             linecolor: ColorManager.orangeAppColor,
                           ),
-                          ContainerHumanDetailsWidget(
-                            title: "Bmi",
-                            svg: "assets/svgs/bmi.svg",
-                            text: 19.1.toString(),
-                            he: 110.h,
-                            linewe: 50.w,
-                            we: 150.w,
-                            color: Colors.white,
-                            linecolor: ColorManager.orangeAppColor,
+                          BlocProvider(
+                            create: (context) => BmiCubit(),
+                            child: BlocBuilder<BmiCubit, double>(
+                              builder: (context, state) {
+                                return ContainerHumanDetailsWidget(
+                                  title: "Bmi",
+                                  svg: "assets/svgs/bmi.svg",
+                                  text: "25",
+                                  he: 110.h,
+                                  linewe: 50.w,
+                                  we: 150.w,
+                                  color: Colors.white,
+                                  linecolor: ColorManager.orangeAppColor,
+                                );
+                              },
+                            ),
                           ),
                         ],
                       ),

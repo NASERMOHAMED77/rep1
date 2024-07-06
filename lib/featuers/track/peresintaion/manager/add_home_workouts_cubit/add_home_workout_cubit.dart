@@ -42,33 +42,59 @@ class ChangeDropDownWorkoutCubit extends Cubit<String> {
     if (state == "Bench") {
       workoutItem = [
         'Select Workout',
-        'Incline Bar Bench Press,',
+        'Incline Bar Bench Press',
         'Decline Bar Bench Press',
         'Incline Dumbel Bench Press',
         'Decline Dumbel Bench Press',
-        'Bench Fly',
         'Incline Machine Bench Press',
+        'Close-Grip Bench Press',
+        'Cable crossover',
+        'Bench Fly',
       ];
     } else if (state == "Back") {
       workoutItem = [
         'Select Workout',
+        'Pull Ups',
         'Back Pull Ups',
+        'Seated Cable Rows',
+        'Barbell rowing underhand grip',
         'Back Lat Pull Down',
         'Back Seated Row',
+        'One-arm dumbbell row',
+        'Deadlifts',
       ];
     } else if (state == "Shoulder") {
       workoutItem = [
         'Select Workout',
-        'Back Pull Ups',
-        'Back Lat Pull Down',
-        'Back Seated Row',
+        'Military Press',
+        'Lateral Raises',
+        'dumbbell lateral raise',
+        'Buttefly Reverse Machine',
+      ];
+    } else if (state == "Triesips") {
+      workoutItem = [
+        'Select Workout',
+        'Triceps Overhead Extensions',
+        'Triceps Pushdowns',
+        'Dips',
+        'dumbbell triceps kickback',
+      ];
+    } else if (state == "Biceps") {
+      workoutItem = [
+        'Select Workout',
+        'Bicep Curls',
+        'Biceps Curls Device',
+        'Scott curls seated dumbbell',
+        'Hammer curl dumbbell',
       ];
     } else if (state == "Leg") {
       workoutItem = [
         'Select Workout',
-        'Back Pull Ups',
-        'Back Lat Pull Down',
-        'Back Seated Row',
+        'Squats',
+        'Lunge',
+        "45 degree leg press  machine",
+        'Leg Curls machine',
+        'Lever Seated Calf Raise',
       ];
     }
   }
